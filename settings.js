@@ -8,7 +8,7 @@ const settings = {
   ownerNumber: '+2349118743413', 
   AUTO_STATUS_REACT: 'true',
   AUTO_STATUS_REPLY: 'false',
-  AUTO_STATUS_MSG: 'Status Viewed AGENT911',
+  AUTO_STATUS_MSG: 'Status Viewed by _AGENT911_',
 
   AUTORECORD: 'false',
   AUTOTYPE: 'false',
