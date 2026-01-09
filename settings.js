@@ -5,7 +5,7 @@ const settings = {
   botOwner: 'AGENT911', 
   timezone: 'Africa/Lagos',
   prefix: '.',
-  ownerNumber: '+2349118743413', 
+  ownerNumber: '+2349069922503', 
   AUTO_STATUS_REACT: 'true',
   AUTO_STATUS_REPLY: 'false',
   AUTO_STATUS_MSG: 'Status Viewed by _AGENT911_',
